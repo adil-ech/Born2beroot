@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e0684961-d493-4719-9b48-f8309d1853a2)
+
 # 🔐 Born2beroot
 
 `Born2beroot` is a system administration project from the 42 curriculum focused on setting up a secure Linux-based virtual machine. It aims to introduce students to fundamental sysadmin practices, including user management, firewall configuration, and securing a Linux environment.
